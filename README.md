@@ -4,6 +4,7 @@
 ## Como rodar a aplicação - How to run the application
 
 - Faça o clone da aplicação em uma pasta de sua preferência.
+- Acesse a branch `develop` via cmd utilizando o cmd `git checkout origin/develop`
 - Importe a pasta raiz no IDE de sua preferência.
 - Faça o update do projeto para efetuar o download das dependências, ou acesse a pasta raiz via cmd e execute o comando `mvn clean install`.
 - Execute a aplicação como `Springboot Application` em Run As > Springboot Application* (*utilizando o IDE Eclipse/Spring Tool Suite).
