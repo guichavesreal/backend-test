@@ -15,15 +15,15 @@
 ## Estrutura do projeto
 
 - Root
---- Controller
-	--- CheckoutController
---- DTO
-	--- CheckoutRequestDTO
-	--- CheckoutResponseDTO
-	--- CondicaoPagamentoDTO
-	--- ProdutoDTO
---- Service
-	--- CheckoutServiceDTO
+- Controller
+-> CheckoutController
+- DTO
+-> CheckoutRequestDTO
+-> CheckoutResponseDTO
+-> CondicaoPagamentoDTO
+-> ProdutoDTO
+- Service
+-> CheckoutServiceDTO
 
 ## Funcionalidades
 
