@@ -34,5 +34,5 @@
 ## Melhorias Futuras
 
 - [X] Documentação via Swagger
-- [ ] Testes Unitários
+- [X] Testes Unitários
 - [ ] Consulta do valor da SELIC em tempo real
